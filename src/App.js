@@ -38,7 +38,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My First React App -> Learn React
+          This is my First React App -> Learn React
         </a>
       </header>
     </div>    
